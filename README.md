@@ -1,6 +1,5 @@
-# pizza-hut-sales-analysis
-Analyzed Pizza Hut sales data using SQL to uncover sales trends, customer ordering patterns, and product performance. The repository includes SQL queries, Tableau visualizations, a detailed project report, and a presentation summarizing key business insights.
 # Pizza Hut Sales Analysis
+Analyzed Pizza Hut sales data using SQL to uncover sales trends, customer ordering patterns, and product performance. The repository includes SQL queries, Tableau visualizations, a detailed project report, and a presentation summarizing key business insights.
 
 ## Overview
 This project analyzes Pizza Hut sales data using SQL to uncover business insights such as revenue trends, customer ordering patterns, product performance, and peak sales periods. Tableau was used to create visualizations, and the complete analysis is documented in a Word report and PowerPoint presentation.
