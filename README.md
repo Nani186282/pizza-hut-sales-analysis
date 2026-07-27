@@ -12,8 +12,8 @@ This project analyzes Pizza Hut sales data using SQL to uncover business insight
 - Microsoft PowerPoint
 
 ## Project Files
-- 📝 Project Report (`Pizza_Hut_Sales_Analysis_Report.docx`)
-- 📽️ Project Presentation (`Pizza_Hut_Sales_Analysis_Presentation.pptx`)
+- 📝 Project Report (`PizzaHut_analysis.docx`)
+- 📽️ Project Presentation (`Pizza-Sales_ppt.pptx`)
 
 ## Business Questions Answered
 - Total number of orders
